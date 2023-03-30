@@ -1,0 +1,379 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+#header {
+    background-color: #ED4C5C;
+    width: 1440px;
+    height: 550px;
+    color: white;
+    
+    
+}
+.header_text_block {
+ width: 445px;
+ display: inline-block;
+ margin: 122px 81px 110px 165px;
+ 
+}
+
+.header_title {
+    font-family: "Lato";
+    font-size: 36px;
+    font-weight: 600px;
+    width: 445px;
+    padding-bottom: 24px;
+}
+.header_text {
+    font-family: "Lato";
+    width: 445px;
+    height: 64px;
+    font-size: 14px;
+    font-weight: 400px;
+ }
+ 
+ .header_img {
+    width: 134px;
+    padding-bottom: 60px;
+    margin-right: 400px;
+ }
+
+ .header_picture_block {
+    padding: 95px 216px 95px 41px;
+    width: 550px;
+    margin: 0px;
+    display: inline-block;
+    position: absolute;
+    
+  
+  
+  }
+.photo1,  .photo2, .photo3   {
+position:absolute;
+}
+
+.photo1 {
+height: 267px;
+width: 383px;
+left: 691px;
+top: 116px;
+border-radius: 15px;
+    
+   
+}
+.photo2 {
+height: 267px;
+width: 383px;
+left: 841px;
+top: 116px;
+border-radius: 15px;
+}
+
+.photo3 {
+height: 311px;
+width: 445px;
+left: 735px;
+top: 94px;
+border-radius: 15px;     
+}
+
+.main {
+    height: 500px;
+    width: 1440px;
+    left: 0px;
+    top: 500px;
+    border-radius: 0px;    
+}
+ 
+.main_text_block {
+width: 445px;
+padding: 117px 114px 223px 176px; 
+float: left;
+border: none;
+}
+
+.main_title {
+    font-family: "Lato";
+    font-size: 36px;
+    font-weight: 600;
+    height: 96px;
+}
+
+.main_text {
+    height: 64px;
+    width: 434px;
+    left: 176px;
+    top: 713px;
+    border: none;
+    font-family: "Lato";
+    font-size: 14px;  
+}
+
+.forms {
+height: 305px;
+width: 540px;
+left: 735px;
+top: 617px;
+border-radius: 6px;
+float: left;
+
+}
+.fname {
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    margin-top: 117px;
+    padding-left: 31px;
+    padding-right: 0px;     
+} 
+
+.lname {
+    width: 255px;
+    height: 60px;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+    margin-left: 25px;
+}
+
+ 
+.pnumber {
+    width: 540px;
+    height: 60px;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    margin-top: 24px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+}
+
+.sservice {
+    width: 540px;
+    height: 60px;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    padding-left: 31px;
+    margin-top: 24px;
+}
+
+.sumbit {
+    width: 160px;
+    height: 50px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 27px;
+}
+
+.sumbit:hover {
+    background: #cc6670
+}
+
+.block_footer {
+    width: 1440px;
+    height: 435px;
+    padding-left: 166px;
+    display: flex;
+    list-style: none;
+
+}
+
+.block_footer_address {
+height: 264px;
+width: 259px;
+left: 161px;
+top: 1130px;
+}
+
+.title_address {
+height: 22px;
+width: 65px;
+left: 166px;
+top: 1130px;
+font-family:"Lato";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+text-align: center;
+margin:85px;
+margin-left: 0;
+}
+
+.adress_text_1 {
+ height: 54px;
+width: 254px;
+left: 166px;
+top: 1185px;
+font-family: "Lato";
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+text-align: left;
+margin-top: 33px;
+margin-bottom: 141px;
+}
+.adress_text_2 {
+    width: 155px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #101010;
+}
+
+.block_footer_services {
+height: 164px;
+width: 254px;
+left: 450px;
+top: 1130px;
+margin-left: 30px;
+}
+
+.title_services {
+height: 22px;
+width: 67px;
+left: 450px;
+top: 1130px;
+font-family: "Lato";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+}
+
+.service_list {
+height: 114px;
+width: 254px;
+left: 450px;
+top: 1180px;
+font-family: "Lato";
+font-size: 12px;
+font-weight: 400;
+line-height: 19px;
+list-style-type: none;
+text-align: left;
+margin-top: 28px;
+}
+
+.block_footer_git {
+    width: 122px;
+    height: 128px;
+    margin-right: 166px;
+}
+
+.git_title {
+height: 22px;
+width: 101px;
+left: 734px;
+top: 1130px;
+font-family: "Lato";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+text-align: center;
+}
+
+.git_email {
+height: 14px;
+width: 122px;
+left: 734px;
+top: 1185px;
+text-decoration: none;
+font-family: "Lato";
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+text-align: left;
+margin-top: 33px;
+display: inline-block;
+margin-bottom: 11px;
+color:#101010; 
+}
+
+.git_phone {
+height: 14px;
+width: 96px;
+left: 734px;
+top: 1210px;
+text-decoration:none;
+font-family: "Lato";
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+text-align: left;
+color:#101010;
+display: inline-block;
+margin-bottom: 21px;
+}
+
+.photo_2 {
+    width: 15px;
+    margin-left: 16px;
+    margin-right: 14px;      
+}
+
+.block_footer_sup {
+    width: 216px;
+    height: 86px;
+}
+
+
+.sup_title {
+height: 22px;
+width: 96px;
+left: 1022px;
+top: 1130px;
+font-family: "Lato";
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+}
+
+
+.photo_links {
+    height: 31px;
+    width: 216px;
+    left: 1028px;
+    top: 1185px;
+    border-radius: 0px;
+    margin-top: 33px;    
+}
