@@ -1,0 +1,53 @@
+      body {
+      background-color: rgb(31, 31, 31);
+       }
+       .table1,tr {
+        font-family: "Lato";
+        color: rgb(15, 15, 15);
+        border: 2px solid rgb(255, 255, 255);
+        border-collapse: collapse;
+        margin-left: 300px;
+        background-color: rgb(14, 139, 132);
+        width: 50%;
+        text-align: left;
+        margin-top: 30px;
+       }
+         th,td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+          
+        }
+    
+       .caret-down {
+        height: 12px;
+       }
+       .table_1_more {
+        height: 16px;
+       }
+       .table_pdf {
+        text-decoration: none;
+        color: aliceblue;
+        margin-left: 10px;
+      }
+       .table_1_text {
+        margin-left: 10px ;
+      }
+ 
+   
+ 
+       .img-pdf {
+       width:19px;
+       margin-left: 5px;
+      }
+       .search {
+          width: 80px;
+        background-color: rgb(113, 113, 113);
+        border: none;
+        border-radius: 10px;
+        margin-right: 5px;
+       }
+       ::placeholder {
+        color: black;
+       }
+
+
